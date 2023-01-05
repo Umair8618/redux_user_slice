@@ -1,3 +1,10 @@
+# when user not logged in
+![image](https://user-images.githubusercontent.com/71764593/210885636-143f5253-bad8-4056-8aa5-5e2563313733.png)
+
+
+# when user logged in
+![image](https://user-images.githubusercontent.com/71764593/210885451-f3edc3ce-ebb8-415a-b362-d401767e18db.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
